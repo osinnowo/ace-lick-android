@@ -1,4 +1,4 @@
-# Food Ordering App
+# AceLick Ordering App
 
 This is an Android app for ordering food. It allows users to view a list of available foods, add items to their cart, and place an order. The app was built with Google Android, Navigation Component, Android Flow, Dagger Hilt, MVI Design Pattern, and Room.
 
